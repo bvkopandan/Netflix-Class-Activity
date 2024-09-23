@@ -1,4 +1,4 @@
-print("Build you house out of: \n 1 straw \n 2 sticks \n 3 bricks")
+print("Choose a material to build your house: \n 1 straw \n 2 sticks \n 3 bricks")
 houseType = input("> ")
 if (houseType == "1"):
   print("HUFF PUFF, THE WOLF BLEW YOUR STRAW HOUSE!")
